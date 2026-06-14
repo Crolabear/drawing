@@ -1,0 +1,6 @@
+{
+  "name": "Layered Canvas Drawer",
+  "description": "An interactive digital canvas to draw objects on individual layers, edit brush colors/thickness, export high-res canvas bundles (PNG/SVG), and generate animation-ready layer metadata JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
